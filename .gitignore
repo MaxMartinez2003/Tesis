@@ -1,0 +1,6 @@
+# Ignorar la carpeta Library de Unity
+Library/
+
+# Ignorar otros archivos o carpetas que no necesites
+*.log
+*.tmp
